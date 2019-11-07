@@ -9,6 +9,8 @@ v = {editable = true,version = "*"}
 
 [packages]
 pandas = "*"
+numpy = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"

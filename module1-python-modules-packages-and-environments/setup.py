@@ -12,10 +12,10 @@ with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
-    name="lambdata_CVanchieri",
+    name="lambdata_CVanchieri_1",
     version="0.0.1",
     author="Charles Vanchieri",
-    description="A collection of Data Science helper functions",
+    description="testing packages",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
     url="https://lambdaschool.com/courses/data-science/",
